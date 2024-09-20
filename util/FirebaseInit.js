@@ -6,13 +6,13 @@ import { getFirestore } from "firebase/firestore";
 
 // TODO: copy-paste the config variables found in your Firebase Project Settings!
 const firebaseConfig = {
-	apiKey: "",
-	authDomain: "",
-	projectId: "",
-	storageBucket: "",
-	messagingSenderId: "",
-	appId: "",
-	measurementId: ""
+	apiKey: "AIzaSyCtVwZT0-73H_0Qe95uT5qP4JU03ixH56Y",
+  authDomain: "fsabfinalpro.firebaseapp.com",
+  projectId: "fsabfinalpro",
+  storageBucket: "fsabfinalpro.appspot.com",
+  messagingSenderId: "450822423485",
+  appId: "1:450822423485:web:bc88ff6839f07434bac8d4",
+  measurementId: "G-DNQKRWSQYC"
 };
 
 // Initialize Firebase
